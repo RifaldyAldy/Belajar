@@ -9,7 +9,9 @@ npm install ya
 ```
 npm run serve
 ```
-
+```
+paok
+```
 ### Compiles and minifies for production
 ```
 npm run build
